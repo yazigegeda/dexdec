@@ -1,5 +1,5 @@
 
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/asLody/dexdec)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/brand/dexdec-wordmark-dark.png">
